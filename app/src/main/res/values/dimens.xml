@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font1">24dp</dimen>
+    <dimen name="font2">40dp</dimen>
+    <dimen name="font3">18dp</dimen>
+    <dimen name="font4">16dp</dimen>
+    <dimen name="font5">12dp</dimen>
+    <dimen name="verticals">24dp</dimen>
+    <dimen name="horizontal_width">360dp</dimen>
+</resources>
