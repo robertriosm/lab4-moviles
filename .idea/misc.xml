@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.172" />
+        <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.166" />
         <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/drawable/ic_baseline_directions_24.xml" value="0.256" />
+        <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.1355" />
         <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.172" />
+        <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/layout/activity_details.xml" value="0.264" />
         <entry key="..\:/Users/paqui/AndroidStudioProjects/Laboratorio4/app/src/main/res/layout/main.xml" value="0.4" />
       </map>
     </option>

@@ -33,14 +33,15 @@
             android:textColor="@color/white"
             app:layout_constraintStart_toStartOf="parent" />
 
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="86dp"
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/descargarBtn"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:backgroundTint="@color/grey2"
             android:gravity="center"
             android:text="@string/descargar"
             android:textColor="@color/white"
-            android:textStyle="bold"
+            android:textSize="@dimen/font6"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/textView2"
             tools:layout_editor_absoluteY="0dp" />
@@ -70,7 +71,9 @@
             android:textSize="@dimen/font2"
             android:textStyle="bold" />
 
-        <ImageView
+        <ImageButton
+            android:backgroundTint="@color/grey"
+            android:id="@+id/ruta"
             android:layout_width="20dp"
             android:layout_height="20dp"
             app:srcCompat="@drawable/ic_baseline_directions_24"
