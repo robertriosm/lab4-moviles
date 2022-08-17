@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import java.io.Serializable
 
 class Main : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.main)
@@ -54,10 +55,7 @@ class Main : AppCompatActivity() {
 
 }
 
-data class Restaurante(private val nombre: String,
+data class Restaurante(val nombre: String,
                        val dir: String,
                        val hor: String) : Serializable {
-   fun getNombre(): String {
-       return nombre
-   }
 }
